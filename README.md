@@ -4,7 +4,8 @@
 ## Dashboard 1:
 ![Screenshot 2024-05-20 074735](https://github.com/Ram-Kumar-4240/amazon_shoe_analysis/assets/167958959/40fa368d-9c83-4150-bc81-1ad6784b62cb)
 ## Dashboard 2:
-![Screenshot 2024-05-20 121148](https://github.com/Ram-Kumar-4240/amazon_shoe_analysis/assets/167958959/83b39d4c-e9b2-4494-a649-0f8dd79821a3)
+![Screenshot 2024-05-20 142657](https://github.com/Ram-Kumar-4240/amazon_shoe_analysis/assets/167958959/cc30627b-488f-48df-8e68-c1be7adcc60f)
+
 
 ## Data Collection
 
